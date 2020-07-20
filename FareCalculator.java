@@ -104,7 +104,7 @@ public class TransitCalculator {
 
     TransitCalculator firstFare = new TransitCalculator(12, 5, false, true);
 
-    System.out.println(firstFare.getBestFare());
+    System.out.println(firstFare.getBestFare() + "Thank you for riding with the New York Transit!");
   }
   
 }
